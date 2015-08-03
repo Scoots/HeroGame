@@ -1,0 +1,14 @@
+Game/Library/
+Game/Temp/
+Game/Assets/UnityVS.meta
+Game/Assets/UnityVS/
+*.csproj
+*.sln
+Game/UnityVS.Game.sln.ide/
+Game/obj/Debug/build.force
+
+*.suo
+*.DotSettings
+Game/obj
+Game/StyleCop.Cache
+Build/

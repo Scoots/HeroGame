@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBoardAbilityData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BoardAbilityData>
+    <Id>1408740737</Id>
+    <Name>Heartbreaker - Fire</Name>
+    <Description>Heart &gt; Fire</Description>
+    <CanBeRemoved>false</CanBeRemoved>
+    <Activate>Battlecry</Activate>
+    <Image />
+    <TypeOfBoardAbility>Freeze</TypeOfBoardAbility>
+    <BoardTarget>Selection</BoardTarget>
+    <TargetColor>Heart</TargetColor>
+    <TimeDelta>0</TimeDelta>
+    <GridSizeX>2</GridSizeX>
+    <GridSizeY>3</GridSizeY>
+    <SelectColor>Fire</SelectColor>
+    <NumOfSelections>10</NumOfSelections>
+  </BoardAbilityData>
+  <BoardAbilityData>
+    <Id>1675628196</Id>
+    <Name>Heartbreaker - Water</Name>
+    <Description>Heart &gt; Water</Description>
+    <CanBeRemoved>false</CanBeRemoved>
+    <Activate>Battlecry</Activate>
+    <Image />
+    <TypeOfBoardAbility>SuperOrb</TypeOfBoardAbility>
+    <BoardTarget>All</BoardTarget>
+    <TargetColor>Water</TargetColor>
+    <TimeDelta>0</TimeDelta>
+    <GridSizeX>0</GridSizeX>
+    <GridSizeY>0</GridSizeY>
+    <SelectColor>Water</SelectColor>
+    <NumOfSelections>0</NumOfSelections>
+  </BoardAbilityData>
+  <BoardAbilityData>
+    <Id>1574167774</Id>
+    <Name>Heartbreaker - Wood</Name>
+    <Description>Heart &gt; Wood</Description>
+    <CanBeRemoved>false</CanBeRemoved>
+    <Activate>Battlecry</Activate>
+    <Image />
+    <TypeOfBoardAbility>ChangeColor</TypeOfBoardAbility>
+    <BoardTarget>Column</BoardTarget>
+    <TargetColor>Wood</TargetColor>
+    <TimeDelta>0</TimeDelta>
+    <GridSizeX>0</GridSizeX>
+    <GridSizeY>0</GridSizeY>
+    <SelectColor>Wood</SelectColor>
+    <NumOfSelections>0</NumOfSelections>
+  </BoardAbilityData>
+  <BoardAbilityData>
+    <Id>21853708</Id>
+    <Name>Heartbreaker - Light</Name>
+    <Description>Heart &gt; Light</Description>
+    <CanBeRemoved>false</CanBeRemoved>
+    <Activate>Battlecry</Activate>
+    <Image />
+    <TypeOfBoardAbility>ChangeColor</TypeOfBoardAbility>
+    <BoardTarget>Color</BoardTarget>
+    <TargetColor>Heart</TargetColor>
+    <TimeDelta>0</TimeDelta>
+    <GridSizeX>0</GridSizeX>
+    <GridSizeY>0</GridSizeY>
+    <SelectColor>Light</SelectColor>
+    <NumOfSelections>0</NumOfSelections>
+  </BoardAbilityData>
+  <BoardAbilityData>
+    <Id>1779025094</Id>
+    <Name>Heartbreaker - Dark</Name>
+    <Description>Heart &gt; Dark</Description>
+    <CanBeRemoved>false</CanBeRemoved>
+    <Activate>Battlecry</Activate>
+    <Image />
+    <TypeOfBoardAbility>ChangeColor</TypeOfBoardAbility>
+    <BoardTarget>Color</BoardTarget>
+    <TargetColor>Heart</TargetColor>
+    <TimeDelta>0</TimeDelta>
+    <GridSizeX>0</GridSizeX>
+    <GridSizeY>0</GridSizeY>
+    <SelectColor>Dark</SelectColor>
+    <NumOfSelections>0</NumOfSelections>
+  </BoardAbilityData>
+  <BoardAbilityData>
+    <Id>634110486</Id>
+    <Name>Heartmaker - Fire</Name>
+    <Description>Fire &gt; Heart</Description>
+    <CanBeRemoved>false</CanBeRemoved>
+    <Activate>Battlecry</Activate>
+    <Image />
+    <TypeOfBoardAbility>ChangeColor</TypeOfBoardAbility>
+    <BoardTarget>Color</BoardTarget>
+    <TargetColor>Fire</TargetColor>
+    <TimeDelta>0</TimeDelta>
+    <GridSizeX>0</GridSizeX>
+    <GridSizeY>0</GridSizeY>
+    <SelectColor>Heart</SelectColor>
+    <NumOfSelections>0</NumOfSelections>
+  </BoardAbilityData>
+  <BoardAbilityData>
+    <Id>2019231147</Id>
+    <Name>Heartmaker - Water</Name>
+    <Description>Water &gt; Heart</Description>
+    <CanBeRemoved>false</CanBeRemoved>
+    <Activate>Battlecry</Activate>
+    <Image />
+    <TypeOfBoardAbility>ChangeColor</TypeOfBoardAbility>
+    <BoardTarget>Color</BoardTarget>
+    <TargetColor>Water</TargetColor>
+    <TimeDelta>0</TimeDelta>
+    <GridSizeX>0</GridSizeX>
+    <GridSizeY>0</GridSizeY>
+    <SelectColor>Heart</SelectColor>
+    <NumOfSelections>0</NumOfSelections>
+  </BoardAbilityData>
+  <BoardAbilityData>
+    <Id>125869097</Id>
+    <Name>Heartmaker - Wood</Name>
+    <Description>Wood &gt; Heart</Description>
+    <CanBeRemoved>false</CanBeRemoved>
+    <Activate>Battlecry</Activate>
+    <Image />
+    <TypeOfBoardAbility>ChangeColor</TypeOfBoardAbility>
+    <BoardTarget>Color</BoardTarget>
+    <TargetColor>Wood</TargetColor>
+    <TimeDelta>0</TimeDelta>
+    <GridSizeX>0</GridSizeX>
+    <GridSizeY>0</GridSizeY>
+    <SelectColor>Heart</SelectColor>
+    <NumOfSelections>0</NumOfSelections>
+  </BoardAbilityData>
+  <BoardAbilityData>
+    <Id>102392057</Id>
+    <Name>Heartmaker - Light</Name>
+    <Description>Light &gt; Heart</Description>
+    <CanBeRemoved>false</CanBeRemoved>
+    <Activate>Battlecry</Activate>
+    <Image />
+    <TypeOfBoardAbility>ChangeColor</TypeOfBoardAbility>
+    <BoardTarget>Color</BoardTarget>
+    <TargetColor>Light</TargetColor>
+    <TimeDelta>0</TimeDelta>
+    <GridSizeX>0</GridSizeX>
+    <GridSizeY>0</GridSizeY>
+    <SelectColor>Heart</SelectColor>
+    <NumOfSelections>0</NumOfSelections>
+  </BoardAbilityData>
+  <BoardAbilityData>
+    <Id>517015782</Id>
+    <Name>Heartmaker - Dark</Name>
+    <Description>Dark &gt; Heart</Description>
+    <CanBeRemoved>false</CanBeRemoved>
+    <Activate>Battlecry</Activate>
+    <Image />
+    <TypeOfBoardAbility>ChangeColor</TypeOfBoardAbility>
+    <BoardTarget>Color</BoardTarget>
+    <TargetColor>Dark</TargetColor>
+    <TimeDelta>0</TimeDelta>
+    <GridSizeX>0</GridSizeX>
+    <GridSizeY>0</GridSizeY>
+    <SelectColor>Heart</SelectColor>
+    <NumOfSelections>0</NumOfSelections>
+  </BoardAbilityData>
+  <BoardAbilityData>
+    <Id>328223621</Id>
+    <Name>Weakness Changer - Light to Dark</Name>
+    <Description>Light &gt; Dark</Description>
+    <CanBeRemoved>false</CanBeRemoved>
+    <Activate>Battlecry</Activate>
+    <Image />
+    <TypeOfBoardAbility>ChangeColor</TypeOfBoardAbility>
+    <BoardTarget>Color</BoardTarget>
+    <TargetColor>Light</TargetColor>
+    <TimeDelta>0</TimeDelta>
+    <GridSizeX>0</GridSizeX>
+    <GridSizeY>0</GridSizeY>
+    <SelectColor>Dark</SelectColor>
+    <NumOfSelections>0</NumOfSelections>
+  </BoardAbilityData>
+  <BoardAbilityData>
+    <Id>739348367</Id>
+    <Name>Weakness Changers - Dark to Light</Name>
+    <Description>Dark &gt; Light</Description>
+    <CanBeRemoved>false</CanBeRemoved>
+    <Activate>Battlecry</Activate>
+    <Image />
+    <TypeOfBoardAbility>ChangeColor</TypeOfBoardAbility>
+    <BoardTarget>Color</BoardTarget>
+    <TargetColor>Dark</TargetColor>
+    <TimeDelta>0</TimeDelta>
+    <GridSizeX>0</GridSizeX>
+    <GridSizeY>0</GridSizeY>
+    <SelectColor>Light</SelectColor>
+    <NumOfSelections>0</NumOfSelections>
+  </BoardAbilityData>
+  <BoardAbilityData>
+    <Id>1296794953</Id>
+    <Name>Weakness Changers - Water to Fire</Name>
+    <Description>Water &gt; Fire</Description>
+    <CanBeRemoved>false</CanBeRemoved>
+    <Activate>Battlecry</Activate>
+    <Image />
+    <TypeOfBoardAbility>ChangeColor</TypeOfBoardAbility>
+    <BoardTarget>Color</BoardTarget>
+    <TargetColor>Water</TargetColor>
+    <TimeDelta>0</TimeDelta>
+    <GridSizeX>0</GridSizeX>
+    <GridSizeY>0</GridSizeY>
+    <SelectColor>Fire</SelectColor>
+    <NumOfSelections>0</NumOfSelections>
+  </BoardAbilityData>
+  <BoardAbilityData>
+    <Id>613782191</Id>
+    <Name>Weakness Changers - Wood to Water</Name>
+    <Description>Wood &gt; Water</Description>
+    <CanBeRemoved>false</CanBeRemoved>
+    <Activate>Battlecry</Activate>
+    <Image />
+    <TypeOfBoardAbility>ChangeColor</TypeOfBoardAbility>
+    <BoardTarget>Color</BoardTarget>
+    <TargetColor>Wood</TargetColor>
+    <TimeDelta>0</TimeDelta>
+    <GridSizeX>0</GridSizeX>
+    <GridSizeY>0</GridSizeY>
+    <SelectColor>Water</SelectColor>
+    <NumOfSelections>0</NumOfSelections>
+  </BoardAbilityData>
+  <BoardAbilityData>
+    <Id>1956734014</Id>
+    <Name>Weakness Changer - Fire to Wood</Name>
+    <Description>Fire &gt; Wood</Description>
+    <CanBeRemoved>false</CanBeRemoved>
+    <Activate>Battlecry</Activate>
+    <Image />
+    <TypeOfBoardAbility>ChangeColor</TypeOfBoardAbility>
+    <BoardTarget>Color</BoardTarget>
+    <TargetColor>Fire</TargetColor>
+    <TimeDelta>0</TimeDelta>
+    <GridSizeX>0</GridSizeX>
+    <GridSizeY>0</GridSizeY>
+    <SelectColor>Wood</SelectColor>
+    <NumOfSelections>0</NumOfSelections>
+  </BoardAbilityData>
+  <BoardAbilityData>
+    <Id>2054131896</Id>
+    <Name>Strength Changer - Fire to Water</Name>
+    <Description>Fire &gt; Water</Description>
+    <CanBeRemoved>false</CanBeRemoved>
+    <Activate>Battlecry</Activate>
+    <Image />
+    <TypeOfBoardAbility>ChangeColor</TypeOfBoardAbility>
+    <BoardTarget>Color</BoardTarget>
+    <TargetColor>Fire</TargetColor>
+    <TimeDelta>0</TimeDelta>
+    <GridSizeX>0</GridSizeX>
+    <GridSizeY>0</GridSizeY>
+    <SelectColor>Water</SelectColor>
+    <NumOfSelections>0</NumOfSelections>
+  </BoardAbilityData>
+  <BoardAbilityData>
+    <Id>2036965759</Id>
+    <Name>Strength  Changer - Water to Wood</Name>
+    <Description>Water &gt; Wood</Description>
+    <CanBeRemoved>false</CanBeRemoved>
+    <Activate>Battlecry</Activate>
+    <Image />
+    <TypeOfBoardAbility>ChangeColor</TypeOfBoardAbility>
+    <BoardTarget>Color</BoardTarget>
+    <TargetColor>Water</TargetColor>
+    <TimeDelta>0</TimeDelta>
+    <GridSizeX>0</GridSizeX>
+    <GridSizeY>0</GridSizeY>
+    <SelectColor>Wood</SelectColor>
+    <NumOfSelections>0</NumOfSelections>
+  </BoardAbilityData>
+  <BoardAbilityData>
+    <Id>1145062861</Id>
+    <Name>Strength Changer - Wood to Fire</Name>
+    <Description>Wood &gt; Fire</Description>
+    <CanBeRemoved>false</CanBeRemoved>
+    <Activate>Battlecry</Activate>
+    <Image />
+    <TypeOfBoardAbility>ChangeColor</TypeOfBoardAbility>
+    <BoardTarget>Color</BoardTarget>
+    <TargetColor>Wood</TargetColor>
+    <TimeDelta>0</TimeDelta>
+    <GridSizeX>0</GridSizeX>
+    <GridSizeY>0</GridSizeY>
+    <SelectColor>Fire</SelectColor>
+    <NumOfSelections>0</NumOfSelections>
+  </BoardAbilityData>
+  <BoardAbilityData>
+    <Id>1811508271</Id>
+    <Name>Darkness</Name>
+    <Description>All Dark</Description>
+    <CanBeRemoved>false</CanBeRemoved>
+    <Activate>Battlecry</Activate>
+    <Image />
+    <TypeOfBoardAbility>Dark</TypeOfBoardAbility>
+    <BoardTarget>All</BoardTarget>
+    <TargetColor>Empty</TargetColor>
+    <TimeDelta>0</TimeDelta>
+    <GridSizeX>0</GridSizeX>
+    <GridSizeY>0</GridSizeY>
+    <SelectColor>Empty</SelectColor>
+    <NumOfSelections>0</NumOfSelections>
+  </BoardAbilityData>
+  <BoardAbilityData>
+    <Id>588258951</Id>
+    <Name>Super Dark Orbs</Name>
+    <Description>Dark Enhance</Description>
+    <CanBeRemoved>false</CanBeRemoved>
+    <Activate>Battlecry</Activate>
+    <Image />
+    <TypeOfBoardAbility>SuperOrb</TypeOfBoardAbility>
+    <BoardTarget>Color</BoardTarget>
+    <TargetColor>Empty</TargetColor>
+    <TimeDelta>0</TimeDelta>
+    <GridSizeX>0</GridSizeX>
+    <GridSizeY>0</GridSizeY>
+    <SelectColor>Dark</SelectColor>
+    <NumOfSelections>0</NumOfSelections>
+  </BoardAbilityData>
+  <BoardAbilityData>
+    <Id>1974994697</Id>
+    <Name>Super Light Orbs</Name>
+    <Description>Light Enhance</Description>
+    <CanBeRemoved>false</CanBeRemoved>
+    <Activate>Battlecry</Activate>
+    <Image />
+    <TypeOfBoardAbility>SuperOrb</TypeOfBoardAbility>
+    <BoardTarget>Color</BoardTarget>
+    <TargetColor>Empty</TargetColor>
+    <TimeDelta>0</TimeDelta>
+    <GridSizeX>0</GridSizeX>
+    <GridSizeY>0</GridSizeY>
+    <SelectColor>Light</SelectColor>
+    <NumOfSelections>0</NumOfSelections>
+  </BoardAbilityData>
+  <BoardAbilityData>
+    <Id>989919110</Id>
+    <Name>Super Fire Orbs</Name>
+    <Description>Fire Enhance</Description>
+    <CanBeRemoved>false</CanBeRemoved>
+    <Activate>Active</Activate>
+    <Image />
+    <TypeOfBoardAbility>SuperOrb</TypeOfBoardAbility>
+    <BoardTarget>Color</BoardTarget>
+    <TargetColor>Empty</TargetColor>
+    <TimeDelta>0</TimeDelta>
+    <GridSizeX>0</GridSizeX>
+    <GridSizeY>0</GridSizeY>
+    <SelectColor>Fire</SelectColor>
+    <NumOfSelections>0</NumOfSelections>
+  </BoardAbilityData>
+  <BoardAbilityData>
+    <Id>1705961528</Id>
+    <Name>Super Water Orbs</Name>
+    <Description>Water Enhance</Description>
+    <CanBeRemoved>false</CanBeRemoved>
+    <Activate>Battlecry</Activate>
+    <Image />
+    <TypeOfBoardAbility>SuperOrb</TypeOfBoardAbility>
+    <BoardTarget>Color</BoardTarget>
+    <TargetColor>Empty</TargetColor>
+    <TimeDelta>0</TimeDelta>
+    <GridSizeX>0</GridSizeX>
+    <GridSizeY>0</GridSizeY>
+    <SelectColor>Water</SelectColor>
+    <NumOfSelections>0</NumOfSelections>
+  </BoardAbilityData>
+  <BoardAbilityData>
+    <Id>2001276446</Id>
+    <Name>Super Wood Orbs</Name>
+    <Description>Wood Enhance</Description>
+    <CanBeRemoved>false</CanBeRemoved>
+    <Activate>Battlecry</Activate>
+    <Image />
+    <TypeOfBoardAbility>SuperOrb</TypeOfBoardAbility>
+    <BoardTarget>Color</BoardTarget>
+    <TargetColor>Empty</TargetColor>
+    <TimeDelta>0</TimeDelta>
+    <GridSizeX>0</GridSizeX>
+    <GridSizeY>0</GridSizeY>
+    <SelectColor>Wood</SelectColor>
+    <NumOfSelections>0</NumOfSelections>
+  </BoardAbilityData>
+</ArrayOfBoardAbilityData>

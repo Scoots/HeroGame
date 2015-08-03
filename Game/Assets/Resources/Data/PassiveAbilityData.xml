@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPassiveAbilityData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PassiveAbilityData>
+    <Id>1566559931</Id>
+    <Name>Test passive modify mana self 2x</Name>
+    <Description>Testing Passive Ability</Description>
+    <CanBeRemoved>false</CanBeRemoved>
+    <Image />
+    <TypeOfPassiveAbility>ModifyMana</TypeOfPassiveAbility>
+    <PassiveTarget>Self</PassiveTarget>
+    <ManaModifier>2</ManaModifier>
+    <TimeDelta>0</TimeDelta>
+    <TargetColor>Empty</TargetColor>
+    <SelectColor>Empty</SelectColor>
+    <DamageBuff>0</DamageBuff>
+    <HealthBuff>0</HealthBuff>
+  </PassiveAbilityData>
+  <PassiveAbilityData>
+    <Id>1903156979</Id>
+    <Name>Test passive change time self</Name>
+    <Description>Another passive test</Description>
+    <CanBeRemoved>false</CanBeRemoved>
+    <Image />
+    <TypeOfPassiveAbility>ChangeTime</TypeOfPassiveAbility>
+    <PassiveTarget>Self</PassiveTarget>
+    <ManaModifier>0</ManaModifier>
+    <TimeDelta>1</TimeDelta>
+    <TargetColor>Empty</TargetColor>
+    <SelectColor>Empty</SelectColor>
+    <DamageBuff>0</DamageBuff>
+    <HealthBuff>0</HealthBuff>
+  </PassiveAbilityData>
+  <PassiveAbilityData>
+    <Id>1964771355</Id>
+    <Name>Test passive color change</Name>
+    <Description>Testing again for the color change</Description>
+    <CanBeRemoved>false</CanBeRemoved>
+    <Image />
+    <TypeOfPassiveAbility>PermChangeColor</TypeOfPassiveAbility>
+    <PassiveTarget>Self</PassiveTarget>
+    <ManaModifier>0</ManaModifier>
+    <TimeDelta>0</TimeDelta>
+    <TargetColor>Fire</TargetColor>
+    <SelectColor>Heart</SelectColor>
+    <DamageBuff>0</DamageBuff>
+    <HealthBuff>0</HealthBuff>
+  </PassiveAbilityData>
+  <PassiveAbilityData>
+    <Id>156617995</Id>
+    <Name>Passive - -1 to HP</Name>
+    <Description>-1 HP</Description>
+    <CanBeRemoved>false</CanBeRemoved>
+    <Image />
+    <TypeOfPassiveAbility>BuffHealth</TypeOfPassiveAbility>
+    <PassiveTarget>All</PassiveTarget>
+    <ManaModifier>0</ManaModifier>
+    <TimeDelta>0</TimeDelta>
+    <TargetColor>Empty</TargetColor>
+    <SelectColor>Empty</SelectColor>
+    <DamageBuff>0</DamageBuff>
+    <HealthBuff>-1</HealthBuff>
+  </PassiveAbilityData>
+  <PassiveAbilityData>
+    <Id>236687983</Id>
+    <Name>Passive - +1 Damage to All Monsters</Name>
+    <Description>+1 ATK to All</Description>
+    <CanBeRemoved>false</CanBeRemoved>
+    <Image />
+    <TypeOfPassiveAbility>BuffDamage</TypeOfPassiveAbility>
+    <PassiveTarget>All</PassiveTarget>
+    <ManaModifier>0</ManaModifier>
+    <TimeDelta>0</TimeDelta>
+    <TargetColor>Empty</TargetColor>
+    <SelectColor>Empty</SelectColor>
+    <DamageBuff>1</DamageBuff>
+    <HealthBuff>0</HealthBuff>
+  </PassiveAbilityData>
+</ArrayOfPassiveAbilityData>

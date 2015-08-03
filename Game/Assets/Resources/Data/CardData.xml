@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCardData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CardData>
+    <Id>587235471</Id>
+    <Name>Fire Pinger/Heartbreaker</Name>
+    <Description>I'm a Fire Starter</Description>
+    <BoardAbility>1408740737</BoardAbility>
+    <AttackAbility>878232755</AttackAbility>
+    <Health>1</Health>
+    <CooldownColorData>
+      <OrbColor>Fire</OrbColor>
+    </CooldownColorData>
+    <CooldownCountList>
+      <int>7</int>
+    </CooldownCountList>
+    <GameAbilityList>
+      <int>888027230</int>
+    </GameAbilityList>
+    <PassiveAbilityList />
+    <Image>aof_fire_mage</Image>
+    <ThumbImage>aof_fire_mage_sm</ThumbImage>
+  </CardData>
+  <CardData>
+    <Id>1898670758</Id>
+    <Name>Wood Monster/Heartbreaker</Name>
+    <Description>I'm a Log</Description>
+    <BoardAbility>1574167774</BoardAbility>
+    <AttackAbility>878232755</AttackAbility>
+    <Health>1</Health>
+    <CooldownColorData>
+      <OrbColor>Wood</OrbColor>
+    </CooldownColorData>
+    <CooldownCountList>
+      <int>8</int>
+    </CooldownCountList>
+    <GameAbilityList>
+      <int>2130988533</int>
+    </GameAbilityList>
+    <PassiveAbilityList />
+    <Image>aof_wood_archer</Image>
+    <ThumbImage>aof_wood_archer_sm</ThumbImage>
+  </CardData>
+  <CardData>
+    <Id>1834989642</Id>
+    <Name>Water Binder/Heartbreaker</Name>
+    <Description>I'm Wet</Description>
+    <BoardAbility>1675628196</BoardAbility>
+    <AttackAbility>878232755</AttackAbility>
+    <Health>1</Health>
+    <CooldownColorData>
+      <OrbColor>Water</OrbColor>
+    </CooldownColorData>
+    <CooldownCountList>
+      <int>6</int>
+    </CooldownCountList>
+    <GameAbilityList>
+      <int>1834989642</int>
+    </GameAbilityList>
+    <PassiveAbilityList />
+    <Image>aof_water_elemental</Image>
+    <ThumbImage>aof_water_elemental_sm</ThumbImage>
+  </CardData>
+  <CardData>
+    <Id>2130988533</Id>
+    <Name>Light Healer/Heartbreaker</Name>
+    <Description>i am the light</Description>
+    <BoardAbility>21853708</BoardAbility>
+    <AttackAbility>878232755</AttackAbility>
+    <Health>2</Health>
+    <CooldownColorData>
+      <OrbColor>Light</OrbColor>
+    </CooldownColorData>
+    <CooldownCountList>
+      <int>8</int>
+    </CooldownCountList>
+    <GameAbilityList>
+      <int>1977047869</int>
+    </GameAbilityList>
+    <PassiveAbilityList />
+    <Image>aof_light_paladin_sm</Image>
+    <ThumbImage>aof_light_paladin_sm</ThumbImage>
+  </CardData>
+  <CardData>
+    <Id>828636498</Id>
+    <Name>Dark Life Eater/Heartbreaker</Name>
+    <Description>i am the night</Description>
+    <BoardAbility>1779025094</BoardAbility>
+    <AttackAbility>878232755</AttackAbility>
+    <Health>1</Health>
+    <CooldownColorData>
+      <OrbColor>Dark</OrbColor>
+    </CooldownColorData>
+    <CooldownCountList>
+      <int>7</int>
+    </CooldownCountList>
+    <GameAbilityList>
+      <int>1898670758</int>
+    </GameAbilityList>
+    <PassiveAbilityList />
+    <Image>aof_dark_tesla_sm</Image>
+    <ThumbImage>aof_dark_tesla_sm</ThumbImage>
+  </CardData>
+  <CardData>
+    <Id>1793478566</Id>
+    <Name>Dark Pestilence/Super Orbs</Name>
+    <Description>dark enhancement</Description>
+    <BoardAbility>588258951</BoardAbility>
+    <AttackAbility>878232755</AttackAbility>
+    <Health>2</Health>
+    <CooldownColorData>
+      <OrbColor>Dark</OrbColor>
+    </CooldownColorData>
+    <CooldownCountList>
+      <int>11</int>
+    </CooldownCountList>
+    <GameAbilityList />
+    <PassiveAbilityList>
+      <int>156617995</int>
+    </PassiveAbilityList>
+    <Image>aof_dark_tesla</Image>
+    <ThumbImage>aof_dark_tesla_sm</ThumbImage>
+  </CardData>
+  <CardData>
+    <Id>515121448</Id>
+    <Name>Fire Enrage/Super Orbs</Name>
+    <Description>FIRED UP!</Description>
+    <BoardAbility>989919110</BoardAbility>
+    <AttackAbility>878232755</AttackAbility>
+    <Health>1</Health>
+    <CooldownColorData>
+      <OrbColor>Fire</OrbColor>
+    </CooldownColorData>
+    <CooldownCountList>
+      <int>10</int>
+    </CooldownCountList>
+    <GameAbilityList />
+    <PassiveAbilityList>
+      <int>236687983</int>
+    </PassiveAbilityList>
+    <Image>aof_fire_wolf</Image>
+    <ThumbImage>aof_fire_wolf_sm</ThumbImage>
+  </CardData>
+  <CardData>
+    <Id>1425384681</Id>
+    <Name>Light Disenchanter/Super Orbs</Name>
+    <Description>Light Disenchantment</Description>
+    <BoardAbility>1974994697</BoardAbility>
+    <AttackAbility>878232755</AttackAbility>
+    <Health>1</Health>
+    <CooldownColorData>
+      <OrbColor>Light</OrbColor>
+    </CooldownColorData>
+    <CooldownCountList>
+      <int>12</int>
+    </CooldownCountList>
+    <GameAbilityList>
+      <int>1162214326</int>
+    </GameAbilityList>
+    <PassiveAbilityList />
+    <Image>aof_light_paladin</Image>
+    <ThumbImage>aof_light_paladin_sm</ThumbImage>
+  </CardData>
+  <CardData>
+    <Id>1530015502</Id>
+    <Name>Wood /Super Orbs</Name>
+    <Description>SUPER WOOD</Description>
+    <BoardAbility>2001276446</BoardAbility>
+    <AttackAbility>256275679</AttackAbility>
+    <Health>2</Health>
+    <CooldownColorData>
+      <OrbColor>Wood</OrbColor>
+    </CooldownColorData>
+    <CooldownCountList>
+      <int>12</int>
+    </CooldownCountList>
+    <GameAbilityList />
+    <PassiveAbilityList />
+    <Image>aof_wood_archer</Image>
+    <ThumbImage>aof_wood_archer_sm</ThumbImage>
+  </CardData>
+  <CardData>
+    <Id>1387572206</Id>
+    <Name>Water /Super Orbs</Name>
+    <Description>SUPER WATER</Description>
+    <BoardAbility>1705961528</BoardAbility>
+    <AttackAbility>256275679</AttackAbility>
+    <Health>0</Health>
+    <CooldownColorData>
+      <OrbColor>Empty</OrbColor>
+    </CooldownColorData>
+    <CooldownCountList>
+      <int>0</int>
+    </CooldownCountList>
+    <GameAbilityList />
+    <PassiveAbilityList />
+    <Image>aof_water_elemental</Image>
+    <ThumbImage>aof_water_elemental_sm</ThumbImage>
+  </CardData>
+</ArrayOfCardData>

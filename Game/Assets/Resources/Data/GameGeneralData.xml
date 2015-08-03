@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfGameGeneralData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GameGeneralData>
+    <Id>13805062</Id>
+    <Name>Player One General</Name>
+    <Description>General used for testing</Description>
+    <Health>30</Health>
+    <Image />
+  </GameGeneralData>
+  <GameGeneralData>
+    <Id>1813937494</Id>
+    <Name>Player Two General</Name>
+    <Description>Another one!</Description>
+    <Health>22</Health>
+    <Image />
+  </GameGeneralData>
+  <GameGeneralData>
+    <Id>831436277</Id>
+    <Name>Nocturne</Name>
+    <Description>Stealing things from League now</Description>
+    <Health>30</Health>
+    <Image />
+  </GameGeneralData>
+</ArrayOfGameGeneralData>

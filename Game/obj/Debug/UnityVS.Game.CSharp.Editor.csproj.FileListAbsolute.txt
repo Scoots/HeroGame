@@ -1,0 +1,16 @@
+C:\Projects\HeroGame\Game\Temp\UnityVS_bin\Debug\Assembly-CSharp-Editor.dll
+C:\Projects\HeroGame\Game\Temp\UnityVS_bin\Debug\Assembly-CSharp-Editor.pdb
+C:\Projects\HeroGame\Game\Temp\UnityVS_bin\Debug\HOTween.dll
+C:\Projects\HeroGame\Game\Temp\UnityVS_bin\Debug\HOTweenV1_Editor.dll
+C:\Projects\HeroGame\Game\Temp\UnityVS_bin\Debug\SyntaxTree.VisualStudio.Unity.Bridge.dll
+C:\Projects\HeroGame\Game\Temp\UnityVS_bin\Debug\SyntaxTree.VisualStudio.Unity.Messaging.dll
+C:\Projects\HeroGame\Game\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Projects\HeroGame\Game\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Projects\HeroGame\Game\Temp\UnityVS_bin\Debug\UnityVS.VersionSpecific.dll
+C:\Projects\HeroGame\Game\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Projects\HeroGame\Game\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Projects\HeroGame\Game\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Projects\HeroGame\Game\Temp\UnityVS_bin\Debug\HOTween.xml
+C:\Projects\HeroGame\Game\obj\Debug\UnityVS.Game.CSharp.Editor.csprojResolveAssemblyReference.cache
+C:\Projects\HeroGame\Game\obj\Debug\Assembly-CSharp-Editor.dll
+C:\Projects\HeroGame\Game\obj\Debug\Assembly-CSharp-Editor.pdb

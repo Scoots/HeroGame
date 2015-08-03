@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfGameAbilityData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GameAbilityData>
+    <Id>2008026100</Id>
+    <Name>Test Damage</Name>
+    <Description>Test ability to damage the enemy general 1 point when the card is played</Description>
+    <CanBeRemoved>true</CanBeRemoved>
+    <Activate>Battlecry</Activate>
+    <Image />
+    <TypeOfAbility>Damage</TypeOfAbility>
+    <DamageOrHealing>10</DamageOrHealing>
+    <DamageBuff>0</DamageBuff>
+    <HealthBuff>0</HealthBuff>
+    <AbilityToGrant>0</AbilityToGrant>
+    <TypeToRemove>All</TypeToRemove>
+    <Target>EnemyGeneral</Target>
+  </GameAbilityData>
+  <GameAbilityData>
+    <Id>1587406274</Id>
+    <Name>Test Healing</Name>
+    <Description>Test ability that heals your general 1 point every turn</Description>
+    <CanBeRemoved>true</CanBeRemoved>
+    <Activate>OnTurn</Activate>
+    <Image />
+    <TypeOfAbility>Healing</TypeOfAbility>
+    <DamageOrHealing>5</DamageOrHealing>
+    <DamageBuff>0</DamageBuff>
+    <HealthBuff>0</HealthBuff>
+    <AbilityToGrant>0</AbilityToGrant>
+    <TypeToRemove>All</TypeToRemove>
+    <Target>FriendlyGeneral</Target>
+  </GameAbilityData>
+  <GameAbilityData>
+    <Id>888027230</Id>
+    <Name>Played - 1 Damage to Target</Name>
+    <Description>Active:  Deals 1 Damage to Creature</Description>
+    <CanBeRemoved>false</CanBeRemoved>
+    <Activate>Battlecry</Activate>
+    <Image />
+    <TypeOfAbility>Damage</TypeOfAbility>
+    <DamageOrHealing>1</DamageOrHealing>
+    <DamageBuff>0</DamageBuff>
+    <HealthBuff>0</HealthBuff>
+    <AbilityToGrant>0</AbilityToGrant>
+    <TypeToRemove>All</TypeToRemove>
+    <Target>Target</Target>
+  </GameAbilityData>
+  <GameAbilityData>
+    <Id>1977047869</Id>
+    <Name>Played - Heal 2 HP</Name>
+    <Description>Active:  Heal 2 Damage from Target</Description>
+    <CanBeRemoved>false</CanBeRemoved>
+    <Activate>Battlecry</Activate>
+    <Image />
+    <TypeOfAbility>Healing</TypeOfAbility>
+    <DamageOrHealing>2</DamageOrHealing>
+    <DamageBuff>0</DamageBuff>
+    <HealthBuff>0</HealthBuff>
+    <AbilityToGrant>0</AbilityToGrant>
+    <TypeToRemove>All</TypeToRemove>
+    <Target>Target</Target>
+  </GameAbilityData>
+  <GameAbilityData>
+    <Id>739176697</Id>
+    <Name>Deal 1 Damage to All Targets</Name>
+    <Description>Active:  Deal 1 Damage to All Targets</Description>
+    <CanBeRemoved>false</CanBeRemoved>
+    <Activate>Active</Activate>
+    <Image />
+    <TypeOfAbility>Damage</TypeOfAbility>
+    <DamageOrHealing>1</DamageOrHealing>
+    <DamageBuff>0</DamageBuff>
+    <HealthBuff>0</HealthBuff>
+    <AbilityToGrant>0</AbilityToGrant>
+    <TypeToRemove>All</TypeToRemove>
+    <Target>All</Target>
+  </GameAbilityData>
+  <GameAbilityData>
+    <Id>42506724</Id>
+    <Name>Played - 2 Damage to Target</Name>
+    <Description>-2 to Target</Description>
+    <CanBeRemoved>false</CanBeRemoved>
+    <Activate>Battlecry</Activate>
+    <Image />
+    <TypeOfAbility>Damage</TypeOfAbility>
+    <DamageOrHealing>2</DamageOrHealing>
+    <DamageBuff>0</DamageBuff>
+    <HealthBuff>0</HealthBuff>
+    <AbilityToGrant>0</AbilityToGrant>
+    <TypeToRemove>All</TypeToRemove>
+    <Target>Target</Target>
+  </GameAbilityData>
+  <GameAbilityData>
+    <Id>703003380</Id>
+    <Name>Played - 3 Damage to Target</Name>
+    <Description>-3 to Target</Description>
+    <CanBeRemoved>false</CanBeRemoved>
+    <Activate>Battlecry</Activate>
+    <Image />
+    <TypeOfAbility>Damage</TypeOfAbility>
+    <DamageOrHealing>3</DamageOrHealing>
+    <DamageBuff>0</DamageBuff>
+    <HealthBuff>0</HealthBuff>
+    <AbilityToGrant>0</AbilityToGrant>
+    <TypeToRemove>All</TypeToRemove>
+    <Target>Target</Target>
+  </GameAbilityData>
+  <GameAbilityData>
+    <Id>1382456683</Id>
+    <Name>Played - Heal 4 HP</Name>
+    <Description>Heal 4 HP</Description>
+    <CanBeRemoved>false</CanBeRemoved>
+    <Activate>Battlecry</Activate>
+    <Image />
+    <TypeOfAbility>Damage</TypeOfAbility>
+    <DamageOrHealing>4</DamageOrHealing>
+    <DamageBuff>0</DamageBuff>
+    <HealthBuff>0</HealthBuff>
+    <AbilityToGrant>0</AbilityToGrant>
+    <TypeToRemove>All</TypeToRemove>
+    <Target>Target</Target>
+  </GameAbilityData>
+  <GameAbilityData>
+    <Id>878232755</Id>
+    <Name>Attack - 1 Damage</Name>
+    <Description>ATK 1</Description>
+    <CanBeRemoved>false</CanBeRemoved>
+    <Activate>Active</Activate>
+    <Image />
+    <TypeOfAbility>Damage</TypeOfAbility>
+    <DamageOrHealing>1</DamageOrHealing>
+    <DamageBuff>0</DamageBuff>
+    <HealthBuff>0</HealthBuff>
+    <AbilityToGrant>0</AbilityToGrant>
+    <TypeToRemove>All</TypeToRemove>
+    <Target>TargetEnemy</Target>
+  </GameAbilityData>
+  <GameAbilityData>
+    <Id>256275679</Id>
+    <Name>Attack - 2 Damage</Name>
+    <Description>ATK 2</Description>
+    <CanBeRemoved>false</CanBeRemoved>
+    <Activate>Active</Activate>
+    <Image />
+    <TypeOfAbility>Damage</TypeOfAbility>
+    <DamageOrHealing>2</DamageOrHealing>
+    <DamageBuff>0</DamageBuff>
+    <HealthBuff>0</HealthBuff>
+    <AbilityToGrant>0</AbilityToGrant>
+    <TypeToRemove>All</TypeToRemove>
+    <Target>TargetEnemy</Target>
+  </GameAbilityData>
+  <GameAbilityData>
+    <Id>2052306938</Id>
+    <Name>Attack - 3 Damage</Name>
+    <Description>ATK 3</Description>
+    <CanBeRemoved>false</CanBeRemoved>
+    <Activate>Active</Activate>
+    <Image />
+    <TypeOfAbility>Damage</TypeOfAbility>
+    <DamageOrHealing>3</DamageOrHealing>
+    <DamageBuff>0</DamageBuff>
+    <HealthBuff>0</HealthBuff>
+    <AbilityToGrant>0</AbilityToGrant>
+    <TypeToRemove>All</TypeToRemove>
+    <Target>TargetEnemy</Target>
+  </GameAbilityData>
+  <GameAbilityData>
+    <Id>1181908285</Id>
+    <Name>Attack - 4 Damage</Name>
+    <Description>ATK 4</Description>
+    <CanBeRemoved>false</CanBeRemoved>
+    <Activate>Active</Activate>
+    <Image />
+    <TypeOfAbility>Damage</TypeOfAbility>
+    <DamageOrHealing>4</DamageOrHealing>
+    <DamageBuff>0</DamageBuff>
+    <HealthBuff>0</HealthBuff>
+    <AbilityToGrant>0</AbilityToGrant>
+    <TypeToRemove>All</TypeToRemove>
+    <Target>TargetEnemy</Target>
+  </GameAbilityData>
+  <GameAbilityData>
+    <Id>1024896958</Id>
+    <Name>Attack - 5 Damage</Name>
+    <Description>ATK 5</Description>
+    <CanBeRemoved>false</CanBeRemoved>
+    <Activate>Active</Activate>
+    <Image />
+    <TypeOfAbility>Damage</TypeOfAbility>
+    <DamageOrHealing>5</DamageOrHealing>
+    <DamageBuff>0</DamageBuff>
+    <HealthBuff>0</HealthBuff>
+    <AbilityToGrant>0</AbilityToGrant>
+    <TypeToRemove>All</TypeToRemove>
+    <Target>TargetEnemy</Target>
+  </GameAbilityData>
+  <GameAbilityData>
+    <Id>1898670758</Id>
+    <Name>Player - 2 Life Loss from enemy player</Name>
+    <Description>-2 to Enemy Leader</Description>
+    <CanBeRemoved>false</CanBeRemoved>
+    <Activate>Battlecry</Activate>
+    <Image />
+    <TypeOfAbility>Damage</TypeOfAbility>
+    <DamageOrHealing>2</DamageOrHealing>
+    <DamageBuff>0</DamageBuff>
+    <HealthBuff>0</HealthBuff>
+    <AbilityToGrant>0</AbilityToGrant>
+    <TypeToRemove>All</TypeToRemove>
+    <Target>EnemyGeneral</Target>
+  </GameAbilityData>
+  <GameAbilityData>
+    <Id>1834989642</Id>
+    <Name>Played - 1 turn Blind</Name>
+    <Description>-1 Turn Bind</Description>
+    <CanBeRemoved>false</CanBeRemoved>
+    <Activate>Battlecry</Activate>
+    <Image />
+    <TypeOfAbility>Blind</TypeOfAbility>
+    <DamageOrHealing>0</DamageOrHealing>
+    <DamageBuff>0</DamageBuff>
+    <HealthBuff>0</HealthBuff>
+    <AbilityToGrant>0</AbilityToGrant>
+    <TypeToRemove>All</TypeToRemove>
+    <Target>TargetEnemy</Target>
+  </GameAbilityData>
+  <GameAbilityData>
+    <Id>2130988533</Id>
+    <Name>Played - +1 Damage to Target Monster</Name>
+    <Description>+1 ATK to Target Monster</Description>
+    <CanBeRemoved>false</CanBeRemoved>
+    <Activate>Battlecry</Activate>
+    <Image />
+    <TypeOfAbility>BuffDamage</TypeOfAbility>
+    <DamageOrHealing>0</DamageOrHealing>
+    <DamageBuff>1</DamageBuff>
+    <HealthBuff>0</HealthBuff>
+    <AbilityToGrant>0</AbilityToGrant>
+    <TypeToRemove>All</TypeToRemove>
+    <Target>Target</Target>
+  </GameAbilityData>
+  <GameAbilityData>
+    <Id>1162214326</Id>
+    <Name>Disenchant</Name>
+    <Description>Disenchant</Description>
+    <CanBeRemoved>false</CanBeRemoved>
+    <Activate>Battlecry</Activate>
+    <Image />
+    <TypeOfAbility>AbilityRemoval</TypeOfAbility>
+    <DamageOrHealing>0</DamageOrHealing>
+    <DamageBuff>0</DamageBuff>
+    <HealthBuff>0</HealthBuff>
+    <AbilityToGrant>0</AbilityToGrant>
+    <TypeToRemove>All</TypeToRemove>
+    <Target>Target</Target>
+  </GameAbilityData>
+  <GameAbilityData>
+    <Id>1515776920</Id>
+    <CanBeRemoved>false</CanBeRemoved>
+    <Activate>Active</Activate>
+    <Image />
+    <TypeOfAbility>Damage</TypeOfAbility>
+    <DamageOrHealing>0</DamageOrHealing>
+    <DamageBuff>0</DamageBuff>
+    <HealthBuff>0</HealthBuff>
+    <AbilityToGrant>0</AbilityToGrant>
+    <TypeToRemove>All</TypeToRemove>
+    <Target>Target</Target>
+  </GameAbilityData>
+  <GameAbilityData>
+    <Id>1686617002</Id>
+    <CanBeRemoved>false</CanBeRemoved>
+    <Activate>Active</Activate>
+    <Image />
+    <TypeOfAbility>Damage</TypeOfAbility>
+    <DamageOrHealing>0</DamageOrHealing>
+    <DamageBuff>0</DamageBuff>
+    <HealthBuff>0</HealthBuff>
+    <AbilityToGrant>0</AbilityToGrant>
+    <TypeToRemove>All</TypeToRemove>
+    <Target>Target</Target>
+  </GameAbilityData>
+</ArrayOfGameAbilityData>
